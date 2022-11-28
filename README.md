@@ -3,3 +3,4 @@
 
 [![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=Antoine-Meloche&count_private=true&show_icons=true&theme=dracula)](#)
 [![Github Top Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoine-Meloche&layout=compact&theme=dracula)](#)
+[![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Antoine-Meloche&theme=dracula)]
